@@ -1,2 +1,3 @@
 Name information
 added game on home page
+added clubs on home page
